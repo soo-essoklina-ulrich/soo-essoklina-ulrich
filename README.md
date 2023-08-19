@@ -9,9 +9,9 @@ You can click the Preview link to take a look at your changes.
 <!-- <h1 align="center">👋 Hi, I’m @soo-essoklina-ulrich</h1>
 <h3 align="center">A passionate software engineering student</h3>
 <img align="right" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="coding">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=agodamarina&label=Profile%20views&color=0e75b6&style=flat" alt="agodamarina" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soo-essoklina-ulrich&label=Profile%20views&color=0e75b6&style=flat" alt="soo-essoklina-ulrich" /> </p>
 
-- 🔭 I’m currently working on [ERP](https://github.com/agodaMarina/PPE301)
+- 🔭 I’m currently working on [ERP](https://github.com/soo-essoklina-ulrich/PPE301)
 
 - 📫 How to reach me **Essokpazim.agoda@ipnetinstitute.com**
 
