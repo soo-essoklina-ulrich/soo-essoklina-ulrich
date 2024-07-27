@@ -18,7 +18,7 @@ media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=soo-essoklina-ulrich&show_icons=true"  />
 </picture>
 </p>
-<br>
+
 <p  align="right">
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=soo-essoklina-ulrich"  alt="soo-essoklina-ulrich"  />
 </p>
