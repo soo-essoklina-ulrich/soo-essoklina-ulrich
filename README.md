@@ -3,7 +3,7 @@
 <h5 align="center">passionate about coding, I love learning</h3>
 
 
-<p align="center">- 📫 How to reach me **sessoklinaulrich@gmail.com**<p>
+<p align="center">- 📫 How to reach me **sessoklinaulrich@gmail.com**</p>
 
 
 
