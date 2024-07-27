@@ -6,7 +6,7 @@
 <h5  align="center">passionate about coding, I love learning</h3>
 
 <p  align="center">- 📫 How to reach me **sessoklinaulrich@gmail.com**</p>
-<p>
+<p align=""center>
 <picture>
 <source
 srcset="https://github-readme-stats.vercel.app/api?username=soo-essoklina-ulrich&show_icons=true&theme=dark"
@@ -17,10 +17,11 @@ media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=soo-essoklina-ulrich&show_icons=true"  />
 </picture>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=soo-essoklina-ulrich"  alt="soo-essoklina-ulrich"  />
 </p>
 
-<p  align="right">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=soo-essoklina-ulrich"  alt="soo-essoklina-ulrich"  />
+<p  align="center">
+
 </p>
 <br>
 <p  align="center">
