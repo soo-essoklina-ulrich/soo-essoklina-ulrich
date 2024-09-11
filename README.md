@@ -31,4 +31,4 @@
 ## 📊 flux de travail
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soo-essoklina-ulrich&theme=tokyonight" alt="soo-essoklina-ulrich" />
   
-![soo-essoklina-ulrich's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soo-essoklina-ulrich&theme=github-compact)
+![graphique d'activité github de soo-essoklina-ulrich](https://github-readme-activity-graph.vercel.app/graph?username=soo-essoklina-ulrich&theme=github-compact)
