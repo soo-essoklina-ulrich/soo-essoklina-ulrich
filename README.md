@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SOO Essoklina Ulrich</h1>  
+<h1 align="center">Salut 👋, je suis SOO Essoklina Ulrich</h1>  
 <h3 align="center">Developpeur FullStack axes sur le backEnd</h3>  
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soo-essoklina-ulrich&label=Profile%20views&color=0e75b6&style=flat" alt="soo-essoklina-ulrich" /> </p>  
