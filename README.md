@@ -3,7 +3,11 @@
 
 <h3  align="center">🖥️ My Stack : [Spring-boot, Symfony, Angular, Vue.js ]</h3>
 
-<h5  align="center">passionate about coding, I love learning</h3>
+<h5  align="center">
+  passionate about coding, I love learning
+  <br>
+  <img align="right" src="https://visitcount.itsvg.in/api?id=kof70&label=Profile%20Views&pretty=true">
+</h3>
 
 - 📫 How to reach me **sessoklinaulrich@gmail.com**
 <br>
@@ -25,10 +29,12 @@ media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 
 </p>
 <br>
-<p  align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=soo-essoklina-ulrich&show_icons=true&locale=en&layout=compact"  alt="soo-essoklina-ulrich"  />
+
+## 📊 My WorkFlow
+<p align="center">
+![My Git Stats(https://github-readme-stats.vercel.app/api/top-langs?username=soo-essoklina-ulrich&show_icons=true&locale=en&layout=compact)]
 </p>
-</br>
+![soo-essoklina-ulrich's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soo-essoklina-ulrich&theme=github-compact)
 <h3  align="center">Languages and Tools:</h3>
 <p  align="center">
 <a  href="https://www.w3.org/html/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  alt="html5"  width="40"  height="40"/>
