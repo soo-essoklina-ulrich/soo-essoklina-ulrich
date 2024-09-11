@@ -31,9 +31,8 @@ media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 <br>
 
 ## 📊 My WorkFlow
-<p align="center">
-[![My Git Stats](https://github-readme-stats.vercel.app/api/top-langs?username=soo-essoklina-ulrich&show_icons=true&locale=en&layout=compact)]()
-</p>
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=soo-essoklina-ulrich&show_icons=true&locale=en&layout=compact)
 ![soo-essoklina-ulrich's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soo-essoklina-ulrich&theme=github-compact)
 <h3  align="center">Languages and Tools:</h3>
 <p  align="center">
