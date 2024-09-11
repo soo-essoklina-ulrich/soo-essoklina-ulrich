@@ -32,7 +32,7 @@ media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 
 ## 📊 My WorkFlow
 <p align="center">
-![My Git Stats(https://github-readme-stats.vercel.app/api/top-langs?username=soo-essoklina-ulrich&show_icons=true&locale=en&layout=compact)]
+[![My Git Stats](https://github-readme-stats.vercel.app/api/top-langs?username=soo-essoklina-ulrich&show_icons=true&locale=en&layout=compact)]()
 </p>
 ![soo-essoklina-ulrich's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soo-essoklina-ulrich&theme=github-compact)
 <h3  align="center">Languages and Tools:</h3>
