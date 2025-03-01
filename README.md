@@ -3,7 +3,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soo-essoklina-ulrich&label=Profile%20views&color=0e75b6&style=flat" alt="soo-essoklina-ulrich" /> </p>  
   
-- 🔭 je travail actuellement sur  **HOTEL-GESTION**  
+- 🔭 je travail actuellement sur  **FACT FRONT**  
   
 - 💬 Posez-moi des questions sur **Angular, Django, Spring Boot**  
   
